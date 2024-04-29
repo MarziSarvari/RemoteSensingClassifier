@@ -5,6 +5,7 @@ This repository contains the code for a convolutional neural network (CNN) based
 
 ## Requirements
 
+The requirements file (requirements.txt) includes the following dependencies:
 - Python 3.x
 - Keras
 - numpy
