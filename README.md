@@ -21,8 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+Clone the repository: 
 ```
-Clone the repository:git clone https://github.com/your_username/remote-sensing-classification.git
+git clone https://github.com/MarziSarvari/RemoteSensingClassifier.git
 ```
 
 2. Navigate to the project directory:
